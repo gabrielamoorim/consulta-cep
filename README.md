@@ -1,2 +1,2 @@
 # consulta-cep
- Digite o CEP e saiba as informações deste.
+ Digite o CEP e saiba as informações desse.
